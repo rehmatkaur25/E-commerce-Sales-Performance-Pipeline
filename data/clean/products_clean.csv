@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price,unit_cost,stock_qty,price_was_imputed
+PR001,Radio Max,Electronics,2400.0,1170.0,326,False
+PR002,Technology Classic,Beauty,1630.0,1080.0,145,False
+PR003,Yard Max,Beauty,2580.0,1370.0,494,False
+PR004,Away Plus,Electronics,3630.0,2480.0,58,False
+PR005,Skin Classic,Electronics,1520.0,830.0,322,False
+PR006,Rich Classic,Books,1520.0,680.0,485,False
+PR007,Class Pro,Home & Kitchen,5550.0,38750.0,285,False
+PR008,Agent Plus,Beauty,2720.0,1720.0,230,False
+PR009,Machine Plus,Beauty,1240.0,820.0,156,False
+PR010,Series Pro,Sports,2450.0,1020.0,485,False
+PR011,Glass Pro,Apparel,1240.0,570.0,80,False
+PR012,Always Max,Apparel,1240.0,700.0,1,False
+PR013,Begin Plus,Beauty,2090.0,1270.0,149,False
+PR014,Back Lite,Electronics,99.0,50.0,359,False
+PR015,Arm Lite,Beauty,1765.0,60.0,403,True
+PR016,Could Classic,Books,1130.0,600.0,115,False
+PR017,Study Max,Books,580.0,390.0,36,False
+PR018,Enter Classic,Electronics,2180.0,1390.0,383,False
+PR019,Open Plus,Sports,710.0,380.0,352,False
+PR020,Avoid Lite,Home & Kitchen,110.0,-60.0,256,False
+PR021,Paper Classic,Sports,3560.0,1890.0,20,False
+PR022,Term Pro,Beauty,1530.0,890.0,46,False
+PR023,Drive Classic,Apparel,1880.0,1220.0,300,False
+PR024,Whether Classic,Electronics,99.0,60.0,20,False
+PR025,Evening Plus,Apparel,1150.0,640.0,469,False
+PR026,Involve Plus,Home & Kitchen,1930.0,1350.0,325,False
+PR027,Important Plus,Beauty,420.0,230.0,170,False
+PR028,Little Max,Home & Kitchen,2250.0,970.0,168,False
+PR029,Professor Plus,Beauty,1080.0,530.0,416,False
+PR030,Interview Lite,Sports,1440.0,780.0,129,True
+PR031,Lead Plus,Home & Kitchen,1080.0,750.0,442,False
+PR032,Four Classic,Sports,4020.0,2400.0,236,False
+PR033,Adult Lite,Beauty,2670.0,12180.0,318,False
+PR034,Improve Max,Beauty,530.0,330.0,136,False
+PR035,Report Plus,Sports,2790.0,1890.0,450,False
+PR036,By Classic,Books,330.0,140.0,409,False
+PR037,Nor Classic,Apparel,2050.0,920.0,7,False
+PR038,According Pro,Sports,99.0,40.0,236,False
+PR039,Put Plus,Electronics,210.0,140.0,477,False
+PR040,Service Lite,Books,2040.0,1130.0,212,False
+PR041,Present Classic,Beauty,2690.0,1270.0,74,False
+PR042,At Classic,Beauty,2010.0,1360.0,382,False
+PR043,Something Plus,Apparel,1660.0,800.0,174,False
+PR044,Skill Lite,Sports,1440.0,930.0,371,False
+PR045,Pay Plus,Home & Kitchen,2250.0,60.0,443,True
+PR046,Answer Lite,Apparel,940.0,530.0,170,False
+PR047,School Lite,Sports,1250.0,640.0,445,False
+PR048,Thus Plus,Apparel,3070.0,1450.0,119,False
+PR049,Baby Plus,Beauty,2210.0,1090.0,361,False
+PR050,Help Max,Beauty,99.0,70.0,253,False
+PR051,Without Classic,Electronics,2190.0,1210.0,169,False
+PR052,Morning Plus,Electronics,1340.0,580.0,7,False
+PR053,Born Max,Books,990.0,520.0,38,False
+PR054,Figure Plus,Beauty,2530.0,1270.0,332,False
+PR055,Stop Classic,Electronics,3040.0,1990.0,194,False
+PR056,Rich Plus,Home & Kitchen,2920.0,1800.0,446,False
+PR057,Fish Max,Sports,790.0,460.0,323,False
+PR058,Policy Pro,Books,1430.0,1000.0,222,False
+PR059,Before Pro,Electronics,2200.0,1340.0,227,False
+PR060,Father Pro,Apparel,1910.0,21820.0,23,True
+PR061,Southern Lite,Home & Kitchen,1220.0,600.0,220,False
+PR062,With Classic,Apparel,1580.0,880.0,349,False
+PR063,Left Classic,Apparel,470.0,210.0,445,False
+PR064,I Classic,Beauty,360.0,200.0,73,False
+PR065,Indicate Plus,Apparel,2780.0,1640.0,130,False
+PR066,Term Plus,Books,3430.0,2300.0,461,False
+PR067,Recent Pro,Home & Kitchen,1710.0,960.0,226,False
+PR068,Allow Plus,Home & Kitchen,3000.0,1470.0,353,False
+PR069,Matter Max,Home & Kitchen,2230.0,1460.0,196,False
+PR070,Close Classic,Beauty,1030.0,490.0,183,False
+PR071,None Lite,Sports,2230.0,1560.0,11,False
+PR072,Discussion Classic,Books,3650.0,1760.0,442,False
+PR073,Century Plus,Books,1760.0,1180.0,426,False
+PR074,Skin Lite,Home & Kitchen,3680.0,2140.0,112,False
+PR075,Include Max,Books,1475.0,60.0,321,True
+PR076,Style Lite,Electronics,2790.0,1660.0,403,False
+PR077,Subject Max,Beauty,1900.0,1090.0,46,False
+PR078,Time Max,Home & Kitchen,1440.0,900.0,102,False
+PR079,Offer Lite,Apparel,1910.0,1270.0,271,False
+PR080,Find Lite,Sports,99.0,60.0,467,False

@@ -1,0 +1,302 @@
+customer_id,customer_name,city,segment,signup_channel,signup_date,email,phone
+C0001,Allison Hill,Hyderabad,New,Organic,2024-05-11,allison.hill@example.com,001-218-519-6001x3389
+C0002,Meredith Barnes,Hyderabad,Returning,Paid Ads,07-Jan-2025,meredith.barnes@example.com,302-765-4235x116
+C0003,Lindsey Roman,Delhi,New,Organic,11/02/2025,lindsey.roman@example.com,+1-516-318-4959
+C0004,Darren Roberts,Hyderabad,VIP,Email,2023-12-10,darren.roberts@example.com,
+C0005,BRIAN RAMIREZ,Chandigarh,VIP,Social Media,25-Jul-2025,brian.ramirez@example.com,(925)853-4192x832
+C0006,Timothy Watts,Chandigarh,New,Organic,05/07/2024,,903-405-6413x95376
+C0007,  David Hoffman  ,Delhi,New,Email,2024-06-22,david.hoffman@example.com,001-369-265-3287
+C0008,Brittany Moore,Pune,New,Email,10-Sep-2025,brittany.moore@example.com,
+c0009,Janice Carlson,Delhi,VIP,Email,01/27/2025,janice.carlson@example.com,280-618-4514x627
+C0010,PAMELA ROMERO,Bangalore,New,Social Media,2024-01-08,pamela.romero@example.com,+1-948-293-2528x8095
+C0011,Jack Galloway,Pune,Returning,Organic,23-Jan-2026,jack.galloway@example.com,403.491.1718
+C0012,Theresa Martin,Delhi,VIP,Social Media,03/31/2025,,
+C0013,Tracey Hickman,mumbai,Returning,Paid Ads,2025-11-29,tracey.hickman@example.com,001-734-265-7871x331
+C0014,  Crystal Robinson  ,Delhi,Returning,Organic,01-Dec-2023,crystal.robinson@example.com,+1-403-910-5183x4738
+C0015,JOHN RUSSELL,Chandigarh,Returning,Organic,12/26/2023,john.russell@example.com,+1-565-966-7010x65133
+C0016,Clifford Ford,Mumbai,Returning,Email,2026-04-05,clifford.ford@example.com,
+C0017,Robert Chase,Mumbai,New,Social Media,30-Dec-2023,robert.chase@example.com,+1-880-213-2677x3602
+c0018,Mrs. Rachel Gibson,Pune,New,Social Media,12/10/2024,,001-287-923-4309x8050
+C0019,Sarah Moore,Chandigarh,VIP,Referral,2026-07-06,sarah.moore@example.com,521-291-3619
+C0020,JENNIFER SILVA,Hyderabad,VIP,Referral,26-Mar-2025,jennifer.silva@example.com,
+C0021,  Christina Moran  ,Pune,New,Organic,05/28/2024,christina.moran@example.com,(524)675-1079x9118
+C0022,Gregory Jones,Chandigarh,VIP,Paid Ads,2024-06-03,gregory.jones@example.com,327-384-9808x4124
+C0023,Brittney Campbell,Mumbai,New,Paid Ads,28-Apr-2024,brittney.campbell@example.com,634-487-4016x40052
+C0024,Kristen Patterson,Chandigarh,Returning,Referral,09/27/2023,,
+C0025,STEPHEN MCKEE,Bangalore,VIP,Referral,2025-04-20,stephen.mckee@example.com,(598)326-2045x053
+C0026,Justin Baxter,delhi,Returning,Referral,20-Jul-2026,justin.baxter@example.com,001-323-822-6025x6342
+c0027,Shannon Walker,Delhi,VIP,Referral,02/02/2026,shannon.walker@example.com,754.833.0365x414
+C0028,  Sarah Rivera  ,Hyderabad,VIP,Organic,2023-10-16,sarah.rivera@example.com,
+C0029,Debbie Carpenter,Pune,VIP,Paid Ads,30-Jul-2026,debbie.carpenter@example.com,3198655698
+C0030,CHERYL WILLIAMS,Pune,VIP,Paid Ads,12/24/2024,,783.856.1595x14846
+C0031,Kristen Lee,Delhi,Returning,Social Media,2025-08-25,kristen.lee@example.com,(729)994-6804x4369
+C0032,Michael Dixon,Mumbai,VIP,Email,09-Jan-2026,michael.dixon@example.com,
+C0033,Nancy Hopkins,Delhi,VIP,Referral,07/15/2024,nancy.hopkins@example.com,+1-395-913-4332x00379
+C0034,Mark Lee,Chandigarh,New,Organic,2025-09-27,mark.lee@example.com,563.320.1632x8708
+C0035,  ROBERT CONTRERAS  ,Mumbai,Returning,Referral,04-Aug-2026,robert.contreras@example.com,+1-557-698-6872x774
+c0036,Kelly Sims,Chandigarh,New,Email,07/05/2024,,
+C0037,Dustin Nelson,Hyderabad,Returning,Paid Ads,2024-08-22,dustin.nelson@example.com,+1-812-823-6231
+C0038,John Brown,Hyderabad,Returning,Social Media,20-Feb-2026,john.brown@example.com,(590)996-7054x6688
+C0039,Jeffrey Johnson,hyderabad,Returning,Paid Ads,09/08/2024,jeffrey.johnson@example.com,+1-462-972-9806x99016
+C0040,DAVID MURPHY,Mumbai,New,Paid Ads,2025-01-13,david.murphy@example.com,
+C0041,Shawn Ramirez,Hyderabad,VIP,Email,26-Jun-2026,shawn.ramirez@example.com,(241)470-8053x10033
+C0042,  John Wilson  ,Mumbai,VIP,Email,06/22/2026,,645.829.9124x190
+C0043,Miguel Jones,Bangalore,VIP,Social Media,2025-09-21,miguel.jones@example.com,+1-731-249-1905x8651
+C0044,Samantha Garcia,Mumbai,New,Paid Ads,06-Jul-2026,samantha.garcia@example.com,
+c0045,SANDRA ZIMMERMAN,Pune,Returning,Organic,12/23/2024,sandra.zimmerman@example.com,001-684-998-7769x4531
+C0046,John Bishop,Chandigarh,New,Paid Ads,2024-10-24,john.bishop@example.com,6756273545
+C0047,Kellie Lee,Hyderabad,New,Social Media,31-May-2024,kellie.lee@example.com,(778)937-7701x43634
+C0048,Hailey Barajas,Pune,New,Social Media,04/25/2025,,
+C0049,  Jesse Parker  ,Bangalore,VIP,Social Media,2024-05-19,jesse.parker@example.com,001-635-318-2337x4989
+C0050,ELIZABETH WARD,Pune,Returning,Email,03-Aug-2024,elizabeth.ward@example.com,001-682-940-0842x710
+C0051,Glen Sheppard,Chandigarh,VIP,Organic,06/11/2024,glen.sheppard@example.com,511.367.1902x2941
+C0052,Jennifer Carlson,hyderabad,VIP,Referral,2025-07-06,jennifer.carlson@example.com,
+C0053,Jamie Kerr,Hyderabad,Returning,Organic,29-Jul-2024,jamie.kerr@example.com,001-564-699-0913
+c0054,Brooke Thompson,Mumbai,Returning,Paid Ads,12/05/2023,,6679974034
+C0055,DAVID BAKER,Bangalore,New,Referral,2026-01-06,david.baker@example.com,001-336-218-3242
+C0056,  Eric Curry  ,Pune,New,Email,15-May-2025,eric.curry@example.com,
+C0057,Caleb Barker,Chandigarh,VIP,Referral,10/01/2025,caleb.barker@example.com,288-377-1906x594
+C0058,Michael Valencia,Hyderabad,VIP,Email,2025-06-03,michael.valencia@example.com,4498027874
+C0059,Katherine Davis,Delhi,New,Referral,21-Sep-2024,katherine.davis@example.com,651-725-6746x80715
+C0060,RAYMOND HANCOCK,Delhi,VIP,Email,02/11/2026,,
+C0061,Sean Murray,Chandigarh,VIP,Referral,2023-11-13,sean.murray@example.com,259.577.0348x24771
+C0062,Emily Smith,Bangalore,New,Organic,24-Nov-2024,emily.smith@example.com,817.912.7484
+c0063,  Mrs. Kristen Reyes  ,Mumbai,Returning,Paid Ads,05/25/2026,mrs..kristen.reyes@example.com,421.946.5840x44997
+C0064,Haley Arnold,Chandigarh,New,Email,2025-04-17,haley.arnold@example.com,
+C0065,FRANK LOPEZ,chandigarh,New,Social Media,28-Sep-2025,frank.lopez@example.com,001-463-960-5766
+C0066,Beth Sanford,Chandigarh,VIP,Paid Ads,09/04/2024,,371-987-0262
+C0067,Deborah Hanson,Delhi,VIP,Social Media,2024-11-13,deborah.hanson@example.com,358-565-7809
+C0068,Tammie Bright,Pune,New,Referral,20-Nov-2025,tammie.bright@example.com,
+C0069,Brett Schultz,Pune,VIP,Social Media,04/03/2026,brett.schultz@example.com,524.800.5045x562
+C0070,  REBECCA JACKSON  ,Delhi,VIP,Paid Ads,2023-12-10,rebecca.jackson@example.com,(693)479-2374x7407
+C0071,Tony Huerta,Hyderabad,Returning,Social Media,31-Jul-2024,tony.huerta@example.com,(647)243-6713x69594
+c0072,Mary Hill,Hyderabad,VIP,Referral,05/11/2025,,
+C0073,Natasha Williams,Bangalore,VIP,Social Media,2025-06-23,natasha.williams@example.com,943.295.3394x2104
+C0074,Morgan Davis,Chandigarh,New,Paid Ads,27-Jul-2024,morgan.davis@example.com,001-662-732-8588x4247
+C0075,JULIE JONES,Chandigarh,Returning,Organic,11/28/2025,julie.jones@example.com,368.951.6048
+C0076,Paul Baker,Pune,VIP,Paid Ads,2024-10-26,paul.baker@example.com,
+C0077,  Jacqueline Leonard  ,Pune,New,Organic,31-Jan-2025,jacqueline.leonard@example.com,+1-285-693-1746x120
+C0078,Audrey Young DDS,chandigarh,VIP,Organic,11/03/2024,,(786)592-6179x640
+C0079,Trevor Foley,Delhi,New,Organic,2023-12-31,trevor.foley@example.com,+1-258-750-6431x71390
+C0080,CAMERON CUNNINGHAM,Mumbai,New,Email,29-Nov-2023,cameron.cunningham@example.com,
+c0081,Christine Robinson,Delhi,Returning,Social Media,03/31/2026,christine.robinson@example.com,729-504-2284x21020
+C0082,Alexis Baker,Delhi,VIP,Paid Ads,2024-01-29,alexis.baker@example.com,(281)617-7589x17839
+C0083,Victor Brown,Hyderabad,VIP,Email,08-Feb-2025,victor.brown@example.com,(761)877-1159x2124
+C0084,  Kerry Chavez DDS  ,Bangalore,New,Social Media,12/31/2023,,
+C0085,SARAH CURTIS,Bangalore,New,Organic,2025-12-13,sarah.curtis@example.com,001-736-673-6576x6156
+C0086,Christian Leblanc,Chandigarh,VIP,Social Media,27-Nov-2023,christian.leblanc@example.com,716-315-2809
+C0087,Shane Pugh,Mumbai,Returning,Social Media,12/10/2024,shane.pugh@example.com,001-304-794-5198x3273
+C0088,Holly Farmer,Bangalore,VIP,Organic,2025-05-20,holly.farmer@example.com,
+C0089,Sarah Villegas,Hyderabad,VIP,Organic,04-Feb-2026,sarah.villegas@example.com,+1-480-494-0244x550
+c0090,JENNIFER THOMAS,Chandigarh,Returning,Referral,07/22/2025,,7186366752
+C0091,  Paula Bradley  ,chandigarh,New,Paid Ads,2023-12-16,paula.bradley@example.com,9229901476
+C0092,Daniel Hunt,Delhi,VIP,Social Media,18-Sep-2024,daniel.hunt@example.com,
+C0093,Michael Watkins,Delhi,Returning,Paid Ads,03/31/2025,michael.watkins@example.com,703-369-0034x3244
+C0094,Paul Thompson,Mumbai,Returning,Paid Ads,2024-10-25,paul.thompson@example.com,001-738-885-1606x071
+C0095,MICHELLE BUTLER,Chandigarh,Returning,Email,17-Jan-2024,michelle.butler@example.com,5528975161
+C0096,Kelly Foster,Chandigarh,New,Email,08/12/2024,,
+C0097,Gary Jackson,Chandigarh,New,Paid Ads,2025-03-13,gary.jackson@example.com,488-635-5231
+C0098,  Lance Wolf  ,Delhi,Returning,Social Media,15-Aug-2025,lance.wolf@example.com,(777)499-7995
+c0099,John Welch,Bangalore,New,Social Media,01/12/2026,john.welch@example.com,001-205-781-4770
+C0100,ANGELA LIN,Chandigarh,New,Social Media,2026-03-15,angela.lin@example.com,
+C0101,Katie Ford,Chandigarh,Returning,Referral,29-Apr-2025,katie.ford@example.com,001-707-393-5978x2071
+C0102,Carrie Wright,Bangalore,Returning,Social Media,12/26/2024,,288.792.5546x659
+C0103,Brandon Gregory,Hyderabad,VIP,Email,2024-07-15,brandon.gregory@example.com,001-692-851-9254x6291
+C0104,Erin Anderson,hyderabad,VIP,Social Media,04-Oct-2025,erin.anderson@example.com,
+C0105,  YOLANDA GAINES  ,Delhi,New,Referral,12/25/2023,yolanda.gaines@example.com,+1-468-350-5423x57332
+C0106,Richard Romero,Delhi,New,Email,2025-04-13,richard.romero@example.com,001-980-259-2962x2292
+C0107,Michael Young,Hyderabad,VIP,Organic,02-Jan-2025,michael.young@example.com,873-883-4735x9774
+c0108,Ruth Solis,Hyderabad,Returning,Organic,02/11/2024,,
+C0109,Martin Sawyer,Chandigarh,VIP,Social Media,2025-04-29,martin.sawyer@example.com,481-841-2478
+C0110,THOMAS VELASQUEZ,Pune,VIP,Paid Ads,16-Apr-2026,thomas.velasquez@example.com,7605685361
+C0111,Timothy Combs,Chandigarh,VIP,Organic,08/09/2025,timothy.combs@example.com,(220)347-2779
+C0112,  Daniel Hernandez  ,Delhi,New,Email,2026-06-14,daniel.hernandez@example.com,
+C0113,Jenny Parsons,Chandigarh,VIP,Paid Ads,27-May-2024,jenny.parsons@example.com,203-569-7117
+C0114,Doris Smith,Bangalore,New,Email,09/26/2024,,001-262-818-5188
+C0115,AMANDA HUGHES,Delhi,VIP,Email,2024-10-18,amanda.hughes@example.com,001-705-415-3195x2058
+C0116,Melinda Pollard,Chandigarh,VIP,Organic,07-Feb-2025,melinda.pollard@example.com,
+c0117,Chad Baldwin,bangalore,VIP,Email,06/17/2026,chad.baldwin@example.com,8439030548
+C0118,Paul Lee,Pune,VIP,Referral,2024-10-01,paul.lee@example.com,001-705-641-5667x65277
+C0119,  Monica Miller  ,Mumbai,New,Referral,19-Jun-2025,monica.miller@example.com,(984)851-1544
+C0120,JEREMY WEST,Delhi,Returning,Social Media,10/30/2025,,
+C0121,Lisa Graham,Delhi,VIP,Referral,2025-07-29,lisa.graham@example.com,9162582029
+C0122,David Brewer,Bangalore,Returning,Organic,06-Oct-2024,david.brewer@example.com,001-409-727-5571
+C0123,Matthew Wright,Chandigarh,Returning,Email,01/15/2024,matthew.wright@example.com,001-927-586-8144x7394
+C0124,Samuel Hayes,Pune,New,Organic,2026-05-01,samuel.hayes@example.com,
+C0125,BRANDON FLEMING,Pune,New,Email,05-Mar-2026,brandon.fleming@example.com,451-588-4422x58313
+c0126,  Allison Spencer  ,Mumbai,New,Referral,10/13/2024,,+1-829-811-4678
+C0127,Angela Compton,Chandigarh,New,Referral,2025-08-01,angela.compton@example.com,378.452.8922x680
+C0128,Christopher Donovan,Mumbai,New,Social Media,14-May-2024,christopher.donovan@example.com,
+C0129,Kelly Campbell,Pune,VIP,Referral,12/09/2023,kelly.campbell@example.com,484.424.9818
+C0130,MARCUS WINTERS,pune,VIP,Email,2024-09-10,marcus.winters@example.com,001-800-210-9439
+C0131,Mr. Dylan Frye MD,Chandigarh,VIP,Email,20-Jan-2026,mr..dylan.frye.md@example.com,+1-464-771-0276x77359
+C0132,Emma Travis,Mumbai,VIP,Organic,09/18/2024,,
+C0133,  Philip Robertson  ,Delhi,Returning,Organic,2024-01-08,philip.robertson@example.com,671.847.3210
+C0134,Jennifer Estes,Chandigarh,VIP,Email,04-May-2026,jennifer.estes@example.com,995-532-7877x47016
+c0135,HARRY WILLIAMS,Delhi,Returning,Referral,02/25/2025,harry.williams@example.com,+1-874-280-1624x5650
+C0136,Chloe Tran,Pune,New,Referral,2023-12-04,chloe.tran@example.com,
+C0137,Pamela Ramirez,Delhi,VIP,Referral,05-Aug-2026,pamela.ramirez@example.com,+1-891-221-6558x52398
+C0138,Chad Cook,Pune,Returning,Referral,02/02/2025,,729.982.5952x694
+C0139,Elizabeth Cabrera,Chandigarh,New,Social Media,2024-10-13,elizabeth.cabrera@example.com,+1-916-494-0974x99309
+C0140,  MICHELLE HAMPTON  ,Mumbai,New,Organic,25-Oct-2024,michelle.hampton@example.com,
+C0141,Dana Armstrong,Mumbai,New,Referral,10/02/2025,dana.armstrong@example.com,907.256.2636
+C0142,Kelly Hoffman,Delhi,VIP,Social Media,2026-08-15,kelly.hoffman@example.com,586.552.7858x5497
+C0143,Edwin David,pune,VIP,Social Media,29-Jul-2026,edwin.david@example.com,001-843-775-7584x41986
+c0144,Regina Roberts,Pune,New,Organic,07/19/2024,,
+C0145,HANNAH RAMOS,Chandigarh,VIP,Paid Ads,2024-06-16,hannah.ramos@example.com,233.584.8421x9933
+C0146,Amy Gutierrez,Pune,New,Referral,19-Oct-2025,amy.gutierrez@example.com,620-782-6773
+C0147,  Anthony Mack  ,Pune,VIP,Paid Ads,08/11/2025,anthony.mack@example.com,480.626.2067
+C0148,Alexandra Bradley,Bangalore,New,Organic,2024-01-09,alexandra.bradley@example.com,
+C0149,Mrs. Virginia Daniels,Mumbai,Returning,Organic,24-Feb-2025,mrs..virginia.daniels@example.com,(687)443-1527
+C0150,GEORGE PHILLIPS,Mumbai,New,Paid Ads,09/04/2025,,329.466.8516
+C0151,Mrs. Taylor Smith,Hyderabad,New,Referral,2024-10-29,mrs..taylor.smith@example.com,945.649.9045x301
+C0152,Michael Leblanc,Pune,Returning,Email,19-Apr-2026,michael.leblanc@example.com,
+c0153,Melissa Fowler,Hyderabad,New,Paid Ads,06/14/2026,melissa.fowler@example.com,(993)532-7279x568
+C0154,  Melanie Larson  ,Delhi,New,Social Media,2026-01-02,melanie.larson@example.com,478.751.9108x83982
+C0155,JESSICA FRAZIER,Chandigarh,New,Referral,19-Oct-2025,jessica.frazier@example.com,918.670.7286x7908
+C0156,Jennifer Velasquez,bangalore,VIP,Paid Ads,11/19/2025,,
+C0157,Amber Cooper,Mumbai,New,Organic,2023-11-23,amber.cooper@example.com,7178046226
+C0158,Thomas Bennett,Bangalore,New,Social Media,11-Dec-2023,thomas.bennett@example.com,+1-982-851-2868x23004
+C0159,Samantha Wright,Delhi,New,Social Media,09/19/2024,samantha.wright@example.com,231-906-9033x119
+C0160,MICHELE WILLIAMS,Mumbai,Returning,Paid Ads,2025-11-13,michele.williams@example.com,
+C0161,  David Robinson  ,Delhi,New,Paid Ads,24-Mar-2026,david.robinson@example.com,7285439599
+c0162,Charles Keller,Bangalore,Returning,Referral,05/09/2024,,740-889-2687x0568
+C0163,Elijah White,Chandigarh,Returning,Referral,2025-04-11,elijah.white@example.com,434.827.0866
+C0164,Dalton Lucas,Hyderabad,VIP,Social Media,26-May-2026,dalton.lucas@example.com,
+C0165,ANNA HARDY,Hyderabad,VIP,Referral,04/06/2024,anna.hardy@example.com,769-690-1398x373
+C0166,Alexis Giles,Chandigarh,New,Referral,2026-07-07,alexis.giles@example.com,673-893-6385
+C0167,Matthew Parker,Delhi,VIP,Referral,04-Oct-2024,matthew.parker@example.com,271.675.3556x0932
+C0168,  Lauren Cortez  ,Chandigarh,New,Email,07/27/2024,,
+C0169,David Hudson,bangalore,Returning,Referral,2024-06-04,david.hudson@example.com,+1-454-977-7252
+C0170,STEVE MOONEY,Bangalore,VIP,Email,02-Jul-2026,steve.mooney@example.com,701.200.6231x20387
+c0171,Mary Jensen,Chandigarh,Returning,Email,02/12/2025,mary.jensen@example.com,800.488.6008x4840
+C0172,Brent Hernandez,Delhi,Returning,Organic,2024-04-08,brent.hernandez@example.com,
+C0173,Robin Adams,Hyderabad,Returning,Organic,12-Nov-2024,robin.adams@example.com,(867)993-3410x166
+C0174,Adam Jackson,Pune,VIP,Paid Ads,03/02/2025,,(259)418-0339x74014
+C0175,  EMILY ALI  ,Mumbai,Returning,Organic,2025-06-03,emily.ali@example.com,001-761-242-9396x85621
+C0176,David Jones,Hyderabad,Returning,Email,22-Jun-2025,david.jones@example.com,
+C0177,Linda Novak,Mumbai,VIP,Organic,08/29/2024,linda.novak@example.com,+1-647-573-5866x2961
+C0178,Angela Moore,Hyderabad,Returning,Email,2025-10-13,angela.moore@example.com,+1-426-355-1104x7541
+C0179,Jerry Peters,Mumbai,VIP,Social Media,24-Nov-2024,jerry.peters@example.com,2156819956
+c0180,RICHARD HARDY,Mumbai,Returning,Referral,05/04/2025,,
+C0181,Dana Meyer DDS,Pune,New,Paid Ads,2024-03-15,dana.meyer.dds@example.com,344-772-1264x647
+C0182,  David Weber  ,bangalore,VIP,Social Media,10-Jun-2025,david.weber@example.com,871.724.0659
+C0183,Jeffrey Colon,Hyderabad,VIP,Paid Ads,08/10/2025,jeffrey.colon@example.com,+1-924-559-3752x654
+C0184,Douglas Hartman,Pune,VIP,Referral,2024-10-09,douglas.hartman@example.com,
+C0185,CHRISTINA OSBORN,Bangalore,VIP,Organic,26-Mar-2024,christina.osborn@example.com,001-480-873-7416x72434
+C0186,Angela Ewing,Mumbai,Returning,Paid Ads,02/08/2025,,(488)268-0589x1135
+C0187,Maria Lucas,Bangalore,VIP,Email,2026-07-12,maria.lucas@example.com,761-801-4388x89937
+C0188,Michael Vaughn,Hyderabad,Returning,Social Media,24-Feb-2024,michael.vaughn@example.com,
+c0189,  Mrs. Elizabeth Knapp MD  ,Bangalore,Returning,Paid Ads,02/18/2026,mrs..elizabeth.knapp.md@example.com,001-925-745-7387x5717
+C0190,ANDREW PAGE,Pune,Returning,Paid Ads,2023-10-11,andrew.page@example.com,412-438-2825x86736
+C0191,Jessica Johnson,Hyderabad,New,Referral,02-Jul-2025,jessica.johnson@example.com,379.366.0334
+C0192,Kimberly Diaz,Pune,VIP,Email,04/13/2024,,
+C0193,Michael Burns,Mumbai,New,Paid Ads,2026-07-11,michael.burns@example.com,396-496-9155x79249
+C0194,David Wilson,Hyderabad,Returning,Paid Ads,18-Oct-2024,david.wilson@example.com,(486)969-2966
+C0195,MELISSA BREWER,delhi,New,Organic,08/16/2026,melissa.brewer@example.com,+1-227-742-2579
+C0196,  Kari Lee  ,Chandigarh,New,Social Media,2024-10-29,kari.lee@example.com,
+C0197,Marissa Ortiz,Pune,New,Social Media,21-Feb-2025,marissa.ortiz@example.com,001-677-421-9034x043
+c0198,Krystal Barton,Bangalore,VIP,Email,02/25/2025,,519.614.8580x78361
+C0199,Amanda Baker,Delhi,VIP,Social Media,2026-03-23,amanda.baker@example.com,471-433-9596
+C0200,ROBIN TRUJILLO,Bangalore,Returning,Paid Ads,16-May-2025,robin.trujillo@example.com,
+C0201,Linda Jackson,Delhi,VIP,Organic,07/25/2026,linda.jackson@example.com,449-748-1260x4223
+C0202,Pam Lowe,Chandigarh,Returning,Paid Ads,2025-02-19,pam.lowe@example.com,001-646-767-1168
+C0203,  John Perkins  ,Delhi,VIP,Email,30-Mar-2026,john.perkins@example.com,001-617-751-8636x3745
+C0204,Bianca Phelps,Bangalore,New,Email,01/03/2026,,
+C0205,PAMELA WILLIAMS,Delhi,New,Social Media,2025-07-14,pamela.williams@example.com,601.327.7063x242
+C0206,Danielle Watson,Delhi,Returning,Email,06-May-2026,danielle.watson@example.com,(506)943-6110
+c0207,Kevin Stone,Pune,VIP,Referral,01/02/2025,kevin.stone@example.com,3513627136
+C0208,Jacob Evans,bangalore,VIP,Email,2024-10-28,jacob.evans@example.com,
+C0209,Shelly May,Bangalore,VIP,Social Media,07-Sep-2025,shelly.may@example.com,489-809-2753
+C0210,  JESSICA ROBINSON  ,Delhi,VIP,Social Media,04/28/2026,,(619)365-6523
+C0211,Kyle Griffith,Bangalore,Returning,Paid Ads,2024-07-16,kyle.griffith@example.com,001-904-838-9836x403
+C0212,Jonathan Wheeler,Hyderabad,Returning,Email,01-Apr-2025,jonathan.wheeler@example.com,
+C0213,Victoria Peck,Bangalore,VIP,Paid Ads,02/04/2024,victoria.peck@example.com,001-365-282-7109
+C0214,Andrew Brown,Mumbai,Returning,Organic,2026-01-04,andrew.brown@example.com,348.566.6188x92414
+C0215,BRITTNEY MURPHY,Hyderabad,Returning,Paid Ads,02-Jun-2025,brittney.murphy@example.com,001-614-463-0316x17990
+c0216,Michael Miles,Mumbai,Returning,Referral,03/09/2024,,
+C0217,  Kelly Logan  ,Pune,New,Paid Ads,2025-10-23,kelly.logan@example.com,(352)641-0564
+C0218,Laura Jones,Delhi,New,Social Media,13-Jan-2025,laura.jones@example.com,(207)292-5241x913
+C0219,Alexandria Williams,Hyderabad,New,Paid Ads,10/08/2024,alexandria.williams@example.com,(720)686-3536
+C0220,LAURA WILSON,Chandigarh,Returning,Social Media,2025-09-03,laura.wilson@example.com,
+C0221,Daniel Black,mumbai,VIP,Social Media,04-Nov-2023,daniel.black@example.com,(617)544-5187x0534
+C0222,Kevin Snyder,Bangalore,New,Paid Ads,12/17/2025,,783.220.6038
+C0223,April Sandoval,Bangalore,Returning,Email,2026-03-09,april.sandoval@example.com,001-541-838-3670x2410
+C0224,  Jacqueline Villegas  ,Hyderabad,New,Email,16-Dec-2023,jacqueline.villegas@example.com,
+c0225,CASEY WILKINS,Bangalore,Returning,Organic,12/05/2023,casey.wilkins@example.com,001-706-723-4456
+C0226,David Harding,Mumbai,Returning,Social Media,2024-02-08,david.harding@example.com,001-991-621-2775x61853
+C0227,Samuel Davis,Bangalore,VIP,Email,24-Jan-2026,samuel.davis@example.com,690-435-2135x6804
+C0228,Jared Chavez,Pune,New,Social Media,11/21/2025,,
+C0229,Joel Lara,Delhi,Returning,Social Media,2024-02-12,joel.lara@example.com,6033236519
+C0230,AUSTIN ORR,Bangalore,New,Social Media,01-Jan-2025,austin.orr@example.com,(815)810-7029
+C0231,  James Simmons MD  ,Mumbai,VIP,Social Media,05/11/2026,james.simmons.md@example.com,947-220-9993x476
+C0232,James Barnes,Hyderabad,New,Social Media,2025-08-01,james.barnes@example.com,
+C0233,Danielle Mcknight,Delhi,VIP,Email,17-Apr-2025,danielle.mcknight@example.com,7658787598
+c0234,Alexander Harper,chandigarh,Returning,Email,10/18/2023,,001-240-578-5932x13348
+C0235,VICKIE PRICE,Pune,VIP,Organic,2026-06-08,vickie.price@example.com,(423)595-5905
+C0236,Rita Waller,Chandigarh,VIP,Social Media,16-Apr-2025,rita.waller@example.com,
+C0237,Andrew Brown,Delhi,Returning,Paid Ads,06/18/2025,andrew.brown@example.com,4877059325
+C0238,  Charles Bush  ,Chandigarh,Returning,Social Media,2024-02-14,charles.bush@example.com,685-715-6915
+C0239,Christopher Fry,Mumbai,New,Social Media,07-Jan-2026,christopher.fry@example.com,452.289.5392x6442
+C0240,TIFFANY MYERS,Mumbai,Returning,Social Media,08/10/2026,,
+C0241,Amanda Guzman,Mumbai,Returning,Referral,2026-05-24,amanda.guzman@example.com,+1-339-717-2513x552
+C0242,Derek Wright,Chandigarh,Returning,Organic,28-Nov-2023,derek.wright@example.com,810-306-7626x765
+c0243,Rachel Lane,Hyderabad,VIP,Organic,12/02/2025,rachel.lane@example.com,327.310.4054
+C0244,Stephen Martin,Mumbai,New,Organic,2023-12-05,stephen.martin@example.com,
+C0245,  VANESSA MORGAN  ,Hyderabad,New,Organic,01-Aug-2026,vanessa.morgan@example.com,606.629.6201x5336
+C0246,Brendan Long,Delhi,New,Organic,04/24/2025,,520.450.6149x7310
+C0247,Vanessa Wells,pune,New,Paid Ads,2024-01-18,vanessa.wells@example.com,(277)641-8625x6527
+C0248,Dennis Hood,Delhi,Returning,Organic,09-May-2025,dennis.hood@example.com,
+C0249,Michael Davis,Pune,New,Social Media,08/28/2025,michael.davis@example.com,+1-969-538-0686
+C0250,BLAKE ORR,Hyderabad,Returning,Referral,2025-10-16,blake.orr@example.com,898.399.2172x23320
+C0251,Jessica Osborn DDS,Delhi,VIP,Email,21-Feb-2026,jessica.osborn.dds@example.com,251-816-8685x487
+c0252,  Chase Knight  ,Hyderabad,VIP,Organic,05/29/2025,,
+C0253,Ariel Garcia,Delhi,Returning,Organic,2025-12-25,ariel.garcia@example.com,885-464-6799x7024
+C0254,Melanie Morales,Pune,New,Referral,11-Nov-2024,melanie.morales@example.com,430-674-5054x44713
+C0255,JESSICA PETERSEN,Pune,VIP,Social Media,06/29/2024,jessica.petersen@example.com,(691)837-3678x50821
+C0256,Samuel Suarez,Bangalore,VIP,Paid Ads,2023-10-17,samuel.suarez@example.com,
+C0257,Ross Hood,Chandigarh,VIP,Paid Ads,08-Jun-2024,ross.hood@example.com,705.934.5786x103
+C0258,Cassandra Harrell,Chandigarh,VIP,Referral,06/03/2025,,(552)541-4060x293
+C0259,  Debra Ortiz  ,Hyderabad,VIP,Organic,2023-10-08,debra.ortiz@example.com,001-707-922-9034x94466
+C0260,JOHN BYRD,pune,New,Referral,10-Feb-2026,john.byrd@example.com,
+c0261,Brian Hunt,Pune,Returning,Referral,08/22/2025,brian.hunt@example.com,(689)694-4171x545
+C0262,Tiffany Curtis,Chandigarh,VIP,Referral,2024-04-04,tiffany.curtis@example.com,230.596.5207x44666
+C0263,Micheal Parks,Chandigarh,Returning,Social Media,27-Jul-2025,micheal.parks@example.com,458.742.8241x7248
+C0264,Courtney Walker,Chandigarh,Returning,Referral,04/02/2026,,
+C0265,STEPHEN WATSON,Hyderabad,Returning,Paid Ads,2025-06-01,stephen.watson@example.com,817.609.9917x381
+C0266,  Seth Hernandez  ,Bangalore,New,Email,08-Aug-2026,seth.hernandez@example.com,969-672-5217x52500
+C0267,Raymond Johnston,Hyderabad,Returning,Email,03/03/2024,raymond.johnston@example.com,001-712-296-6667x60083
+C0268,Nicole Schmidt,Pune,Returning,Social Media,2023-10-06,nicole.schmidt@example.com,
+C0269,Nicholas Perez,Bangalore,VIP,Email,07-Apr-2026,nicholas.perez@example.com,721-868-9421x0447
+c0270,WHITNEY COOPER,Mumbai,Returning,Paid Ads,05/03/2026,,(432)360-3323x098
+C0271,Matthew Johnson,Chandigarh,Returning,Social Media,2026-04-07,matthew.johnson@example.com,889-309-0100x167
+C0272,Kara Hernandez,Delhi,Returning,Email,26-Sep-2025,kara.hernandez@example.com,
+C0273,  Elizabeth Stanley  ,pune,VIP,Social Media,08/22/2025,elizabeth.stanley@example.com,999-526-1891x411
+C0274,Paula Decker,Mumbai,New,Social Media,2026-07-19,paula.decker@example.com,(264)320-8737x530
+C0275,SARA CALDWELL,Mumbai,New,Social Media,22-Feb-2024,sara.caldwell@example.com,981-214-3744
+C0276,Christopher Williams,Delhi,Returning,Referral,07/22/2024,,
+C0277,Emily Rodgers,Mumbai,Returning,Email,2023-12-27,emily.rodgers@example.com,001-300-822-5579x41552
+C0278,Jesus Houston,Hyderabad,Returning,Email,20-Sep-2025,jesus.houston@example.com,462.812.0216x9797
+c0279,Lisa Huffman,Chandigarh,VIP,Paid Ads,04/11/2026,lisa.huffman@example.com,001-527-771-6701x4508
+C0280,  MELISSA MONTGOMERY  ,Chandigarh,New,Social Media,2024-12-20,melissa.montgomery@example.com,
+C0281,Karen Alvarado,Bangalore,VIP,Paid Ads,31-Jul-2025,karen.alvarado@example.com,(489)300-2877
+C0282,Erica Rivera,Hyderabad,Returning,Social Media,07/09/2024,,738.366.3177x97177
+C0283,Dr. Alicia Powell,Bangalore,New,Organic,2023-10-25,dr..alicia.powell@example.com,+1-901-799-4883
+C0284,Anthony Walker,Mumbai,New,Social Media,12-Jan-2025,anthony.walker@example.com,
+C0285,LISA KENNEDY,Hyderabad,New,Referral,08/16/2025,lisa.kennedy@example.com,001-371-213-0554x885
+C0286,Katherine Underwood,hyderabad,VIP,Referral,2025-11-15,katherine.underwood@example.com,(214)393-3163x73516
+C0287,  Joanna Barrett  ,Bangalore,VIP,Email,01-Jul-2026,joanna.barrett@example.com,(470)480-8697
+c0288,Betty Hughes,Mumbai,Returning,Email,06/17/2025,,
+C0289,Kathy Cruz,Mumbai,Returning,Social Media,2026-07-26,kathy.cruz@example.com,001-634-765-4722x698
+C0290,TAYLOR CHEN,Mumbai,Returning,Referral,17-Apr-2024,taylor.chen@example.com,+1-845-622-8851x587
+C0291,Jenny Smith,Delhi,New,Paid Ads,01/08/2024,jenny.smith@example.com,(220)703-4244x2043
+C0292,Ashley Parrish,Mumbai,New,Email,2025-11-12,ashley.parrish@example.com,
+C0293,Natalie Hoffman,Hyderabad,New,Paid Ads,27-May-2024,natalie.hoffman@example.com,001-940-566-6580x043
+C0294,  Michele Holland  ,Delhi,VIP,Social Media,11/29/2025,,+1-493-334-7212
+C0295,JEFFREY HAWKINS,Mumbai,VIP,Email,2024-02-02,jeffrey.hawkins@example.com,001-240-657-2025
+C0296,Kenneth Howard DDS,Pune,VIP,Referral,20-Aug-2024,kenneth.howard.dds@example.com,
+c0297,Clinton Jones,Chandigarh,New,Referral,03/07/2025,clinton.jones@example.com,(988)261-5335x55439
+C0298,Gregory Allen,Delhi,Returning,Paid Ads,2025-08-01,gregory.allen@example.com,+1-730-956-1648x408
+C0299,Mr. Matthew Flores,mumbai,New,Email,13-Dec-2023,mr..matthew.flores@example.com,328-580-1336
+C0300,MICHELE CHERRY,Delhi,Returning,Organic,12/20/2025,,
+c0009,Janice Carlson,Delhi,VIP,Email,01/27/2025,janice.carlson@example.com,280-618-4514x627

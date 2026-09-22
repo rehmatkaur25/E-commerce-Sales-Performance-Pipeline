@@ -1,0 +1,82 @@
+product_id,product_name,category,unit_price,unit_cost,stock_qty
+PR001,Radio Max,Electronic,2400.0,1170.0,326
+PR002,Technology Classic,Beauty,1630.0,1080.0,145
+PR003,Yard Max,beauty,2580.0,1370.0,494
+PR004,Away Plus,electronics,3630.0,2480.0,58
+PR005,Skin Classic,electronics,1520.0,830.0,322
+PR006,Rich Classic,Books,1520.0,680.0,485
+PR007,Class Pro,Home & Kitchen,55500.0,38750.0,285
+PR008,Agent Plus,Beauty,2720.0,1720.0,230
+PR009,Machine Plus,beauty,1240.0,820.0,156
+PR010,Series Pro,Sports & Outdoors,2450.0,1020.0,485
+PR011,Glass Pro,Clothing,1240.0,570.0,80
+PR012,Always Max,Apparel,1240.0,700.0,1
+PR013,Begin Plus,beauty,2090.0,1270.0,149
+PR014,Back Lite,Electronics,99.0,50.0,359
+PR015,Arm Lite,Beauty,,60.0,403
+PR016,Could Classic,Books,1130.0,600.0,115
+PR017,Study Max,Books,580.0,390.0,36
+PR018,Enter Classic,Electronics,2180.0,1390.0,383
+PR019,Open Plus,sports,710.0,380.0,352
+PR020,Avoid Lite,Home/Kitchen,-110.0,-60.0,256
+PR021,Paper Classic,sports,3560.0,1890.0,20
+PR022,Term Pro,beauty,1530.0,890.0,46
+PR023,Drive Classic,Clothing,1880.0,1220.0,300
+PR024,Whether Classic,Electronic,99.0,60.0,20
+PR025,Evening Plus,apparel,1150.0,640.0,469
+PR026,Involve Plus,Home & Kitchen,1930.0,1350.0,325
+PR027,Important Plus,Beauty,420.0,230.0,170
+PR028,Little Max,Home/Kitchen,2250.0,970.0,168
+PR029,Professor Plus,beauty,1080.0,530.0,416
+PR030,Interview Lite,Sports,,780.0,129
+PR031,Lead Plus,Home & Kitchen,1080.0,750.0,442
+PR032,Four Classic,Sports,4020.0,2400.0,236
+PR033,Adult Lite,Beauty,26700.0,12180.0,318
+PR034,Improve Max,beauty,530.0,330.0,136
+PR035,Report Plus,Sports,2790.0,1890.0,450
+PR036,By Classic,books,330.0,140.0,409
+PR037,Nor Classic,Clothing,2050.0,920.0,7
+PR038,According Pro,sports,99.0,40.0,236
+PR039,Put Plus,Electronic,210.0,140.0,477
+PR040,Service Lite,books,2040.0,1130.0,212
+PR041,Present Classic,beauty,2690.0,1270.0,74
+PR042,At Classic,Beauty,2010.0,1360.0,382
+PR043,Something Plus,Apparel,1660.0,800.0,174
+PR044,Skill Lite,sports,1440.0,930.0,371
+PR045,Pay Plus,Home/Kitchen,,60.0,443
+PR046,Answer Lite,apparel,940.0,530.0,170
+PR047,School Lite,Sports & Outdoors,1250.0,640.0,445
+PR048,Thus Plus,Clothing,3070.0,1450.0,119
+PR049,Baby Plus,Beauty,2210.0,1090.0,361
+PR050,Help Max,beauty,99.0,70.0,253
+PR051,Without Classic,Electronics,2190.0,1210.0,169
+PR052,Morning Plus,electronics,1340.0,580.0,7
+PR053,Born Max,Books,990.0,520.0,38
+PR054,Figure Plus,beauty,2530.0,1270.0,332
+PR055,Stop Classic,electronics,3040.0,1990.0,194
+PR056,Rich Plus,Home/Kitchen,2920.0,1800.0,446
+PR057,Fish Max,Sports,790.0,460.0,323
+PR058,Policy Pro,books,1430.0,1000.0,222
+PR059,Before Pro,Electronic,2200.0,1340.0,227
+PR060,Father Pro,Clothing,,21820.0,23
+PR061,Southern Lite,Home & Kitchen,1220.0,600.0,220
+PR062,With Classic,Apparel,1580.0,880.0,349
+PR063,Left Classic,Apparel,470.0,210.0,445
+PR064,I Classic,Beauty,360.0,200.0,73
+PR065,Indicate Plus,apparel,2780.0,1640.0,130
+PR066,Term Plus,Books,3430.0,2300.0,461
+PR067,Recent Pro,Home/Kitchen,1710.0,960.0,226
+PR068,Allow Plus,Home/Kitchen,3000.0,1470.0,353
+PR069,Matter Max,home and kitchen,2230.0,1460.0,196
+PR070,Close Classic,Beauty,1030.0,490.0,183
+PR071,None Lite,sports,2230.0,1560.0,11
+PR072,Discussion Classic,books,3650.0,1760.0,442
+PR073,Century Plus,Books,1760.0,1180.0,426
+PR074,Skin Lite,Home & Kitchen,3680.0,2140.0,112
+PR075,Include Max,Books,,60.0,321
+PR076,Style Lite,Electronic,2790.0,1660.0,403
+PR077,Subject Max,Beauty,1900.0,1090.0,46
+PR078,Time Max,home and kitchen,1440.0,900.0,102
+PR079,Offer Lite,Clothing,1910.0,1270.0,271
+PR080,Find Lite,sports,99.0,60.0,467
+PR005,Skin Classic,electronics,1520.0,830.0,322
